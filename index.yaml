@@ -3,7 +3,17 @@ entries:
   sepa-broker:
   - apiVersion: v2
     appVersion: develop
-    created: "2020-05-08T16:49:51.721671957Z"
+    created: "2020-05-08T17:03:24.550311263Z"
+    description: A Helm chart for Kubernetes
+    digest: 2d058d7011accef72816c2aea79a880fb2eeb8513ec281ecc1691889e39fa79a
+    name: sepa-broker
+    type: application
+    urls:
+    - sepa-broker-0.1-c6e1efe.tgz
+    version: 0.1-c6e1efe
+  - apiVersion: v2
+    appVersion: develop
+    created: "2020-05-08T17:03:24.549660766Z"
     description: A Helm chart for Kubernetes
     digest: c168e7a89ea5d483fca1d0df4fe0cabc40733cef4c5bbfd9f95db43afd6fa5ed
     name: sepa-broker
@@ -11,4 +21,4 @@ entries:
     urls:
     - sepa-broker-0.1-976c5bc.tgz
     version: 0.1-976c5bc
-generated: "2020-05-08T16:49:51.721278291Z"
+generated: "2020-05-08T17:03:24.548594443Z"
